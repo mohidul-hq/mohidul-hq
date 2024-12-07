@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
 
-- 🌱 I’m currently learning **Advanced JavaScript, Node.js, React.js**  
+- 🌱 I’m currently learning **Advance JavaScript, Node.js, React.js**  
 - 🤝 I’m looking for help with **C, C++, Python**  
 - 💬 Ask me about **C, C++, Python, HTML, CSS, JavaScript, Pug**  
 - 📫 How to reach me **mohidul71@outlook.com**  
@@ -71,6 +71,13 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidul-hq&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Activity:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohidul-hq&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
