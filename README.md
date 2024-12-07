@@ -73,14 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidul-hq&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-<h3 align="center">📈 Contribution Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohidul-hq&theme=radical" alt="Contribution Graph" />
-</p>
-
----
 
 <h3 align="center">🚀 Let's Code Together! ✨</h3>
 <p align="center">
